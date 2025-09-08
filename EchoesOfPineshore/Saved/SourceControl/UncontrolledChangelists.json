@@ -15,12 +15,6 @@
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/RetargetedAnimations/Animation/Sprint/M_Neutral_Sprint_Loop_F.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/RetargetedAnimations/Animation/Sprint/M_Neutral_Run_Loop_F.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/RetargetedAnimations/Animation/Sprint/M_Neutral_Walk_Loop_F.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/28/ENQ9U0BWI8ICPN2AOOY6KR.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SO/GRTSP5PPMCUGQGB6SGPEP1.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XG/LXTOUVKIT5RKMJDMSJ39PT.uasset",
@@ -37,7 +31,20 @@
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1D/U6NFMYIQHU241MZ4E41JXD.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/X4/G03XHAPT3EK2INNAGQ2AFM.uasset",
 				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/M0/3NWWQJ1PTZKLMW2H6XQVPE.uasset",
-				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/U8/TBRZIMIU7UZWWJPGJ8KHQQ.uasset"
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/U8/TBRZIMIU7UZWWJPGJ8KHQQ.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LZ/LXS6FV22TZTGPQYR0INBNE.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/Blueprints/Test/BP_Door.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/StarterContent/Props/SM_Door.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/Blueprints/InteractionSystem/Mat_Outline.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/Blueprints/InteractionSystem/Mat_Outline_Inst.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"D:/github Games/Echoes-of-Pineshore/EchoesOfPineshore/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
 			]
 		}
 	]
